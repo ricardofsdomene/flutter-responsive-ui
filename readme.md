@@ -1,4 +1,4 @@
-# wallet
+# responsive-ui
 
 A new Flutter project.
 
